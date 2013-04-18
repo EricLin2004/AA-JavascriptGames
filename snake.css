@@ -1,6 +1,11 @@
 #board{
-  height:500px;
+  height:355px;
   width:500px;
   background-color: #C1F2A5;
-  margin: 2px;
+  margin: auto auto auto auto;
+  margin-bottom:10px;
+}
+
+pre{
+	text-align: center;
 }
